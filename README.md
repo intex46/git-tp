@@ -2,26 +2,26 @@
 
 ## 🔹 Exercise 1: Getting Started with Git
 
-- Initialize a repository (`git init`).
-- Create a README.md file with a brief description.
-- Add and commit this file (`git add`, `git commit`).
-- Check the repository status (`git status`, `git log`).
+- Initialize a repository (`git init`)
+- Create a README.md file with a brief description
+- Add and commit this file (`git add`, `git commit`)
+- Check the repository status (`git status`, `git log`)
 
 ## 🔹 Exercise 2: History and Commits (30 min)
 
 - Create operator file (operator.py)
 - Update Readme file to document this file
 - Make several commits while modifying them incrementally.
-- Use `git log`, `git diff`, `git checkout` to explore the history.
-- Perform a revert on a specific commit.
+- Use `git log`, `git diff`, `git checkout` to explore the history
+- Perform a revert on a specific commit
 
 ## 🔹 Exercise 3: Branches and Merges
 
-- Create a branch called feature-X.
-- Modify the project on this branch (add a function to operator.py).
-- Return to main and make another change.
-- Merge feature-X into main.
-- Visualize the commit graph (`git log --oneline --graph --all`).
+- Create a branch called feature-X
+- Modify the project on this branch (add a function to operator.py)
+- Return to main and make another change
+- Merge feature-X into main
+- Visualize the commit graph (`git log --oneline --graph --all`)
 
 ## 🔹 Exercise 4: Collaboration with Remote Repositories (40 min)
 

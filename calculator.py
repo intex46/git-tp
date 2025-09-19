@@ -1,18 +1,12 @@
-print("hello world")
-
 def minus(a, b):
     return a-b
-a=20
-b=15
-print(minus(a,b))
+
+
+a = int(input("Enter a : "))
+b = int(input("Enter b : "))
+
+print("The result of your operation is : " + minus(a,b))
 
 def hello():
     print("Hello world")
-    
-print("hello world")
 
-def minus(a, b):
-    return a-b
-a=20
-b=15
-print(minus(a,b))
